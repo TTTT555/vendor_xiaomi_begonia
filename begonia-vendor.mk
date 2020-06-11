@@ -51,6 +51,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/lib/vendor.xiaomi.hardware.misys@2.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.misys@2.0.so \
     vendor/xiaomi/begonia/proprietary/lib/vendor.xiaomi.hardware.misys@3.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.misys@3.0.so \
     vendor/xiaomi/begonia/proprietary/lib/vendor.xiaomi.hardware.touchfeature@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.touchfeature@1.0.so \
+    vendor/xiaomi/begonia/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so \
+    vendor/xiaomi/begonia/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so \
     vendor/xiaomi/begonia/proprietary/lib64/libmtk_serialnum.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtk_serialnum.so \
     vendor/xiaomi/begonia/proprietary/lib64/libmtk_vt_wrapper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtk_vt_wrapper.so \
     vendor/xiaomi/begonia/proprietary/lib64/libmtkaudio_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtkaudio_utils.so \
