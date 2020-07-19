@@ -1499,7 +1499,14 @@ PRODUCT_COPY_FILES += \
     vendor/redmi/begonia/proprietary/vendor/lib/s5kgw1sunny_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5kgw1sunny_mipi_raw_IdxMgr.so \
     vendor/redmi/begonia/proprietary/vendor/lib/s5kgw1sunny_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib/s5kgw1sunny_mipi_raw_tuning.so \
     vendor/redmi/begonia/proprietary/vendor/lib/soundfx/libaudiopreprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libaudiopreprocessing.so \
+    vendor/redmi/begonia/proprietary/vendor/lib/soundfx/libbundlewrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libbundlewrapper.so \
+    vendor/redmi/begonia/proprietary/vendor/lib/soundfx/libdownmix.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdownmix.so \
+    vendor/redmi/begonia/proprietary/vendor/lib/soundfx/libdynproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdynproc.so \
+    vendor/redmi/begonia/proprietary/vendor/lib/soundfx/libeffectproxy.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libeffectproxy.so \
+    vendor/redmi/begonia/proprietary/vendor/lib/soundfx/libldnhncr.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libldnhncr.so \
     vendor/redmi/begonia/proprietary/vendor/lib/soundfx/libmisoundfx.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmisoundfx.so \
+    vendor/redmi/begonia/proprietary/vendor/lib/soundfx/libreverbwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libreverbwrapper.so \
+    vendor/redmi/begonia/proprietary/vendor/lib/soundfx/libvisualizer.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libvisualizer.so \
     vendor/redmi/begonia/proprietary/vendor/lib/vendor.goodix.hardware.biometrics.fingerprint@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.goodix.hardware.biometrics.fingerprint@2.1.so \
     vendor/redmi/begonia/proprietary/vendor/lib/vendor.mediatek.hardware.audio@5.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.audio@5.1.so \
     vendor/redmi/begonia/proprietary/vendor/lib/vendor.mediatek.hardware.camera.atms@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.mediatek.hardware.camera.atms@1.0.so \
@@ -2180,6 +2187,13 @@ PRODUCT_COPY_FILES += \
     vendor/redmi/begonia/proprietary/vendor/lib64/s5kgw1sunny_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/s5kgw1sunny_mipi_raw_IdxMgr.so \
     vendor/redmi/begonia/proprietary/vendor/lib64/s5kgw1sunny_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/s5kgw1sunny_mipi_raw_tuning.so \
     vendor/redmi/begonia/proprietary/vendor/lib64/soundfx/libaudiopreprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libaudiopreprocessing.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/soundfx/libbundlewrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libbundlewrapper.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/soundfx/libdownmix.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libdownmix.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/soundfx/libdynproc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libdynproc.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/soundfx/libeffectproxy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libeffectproxy.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/soundfx/libldnhncr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libldnhncr.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/soundfx/libreverbwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libreverbwrapper.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/soundfx/libvisualizer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libvisualizer.so \
     vendor/redmi/begonia/proprietary/vendor/lib64/vendor.goodix.hardware.biometrics.fingerprint@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.goodix.hardware.biometrics.fingerprint@2.1.so \
     vendor/redmi/begonia/proprietary/vendor/lib64/vendor.mediatek.hardware.atci@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.atci@1.0.so \
     vendor/redmi/begonia/proprietary/vendor/lib64/vendor.mediatek.hardware.audio@5.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.audio@5.1.so \
