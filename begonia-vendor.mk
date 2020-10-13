@@ -27,6 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/redmi/begonia/proprietary/framework/vendor.xiaomi.hardware.mtdservice-V1.0-java.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/vendor.xiaomi.hardware.mtdservice-V1.0-java.jar \
     vendor/redmi/begonia/proprietary/framework/vendor.xiaomi.hardware.mtdservice-V1.1-java.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/vendor.xiaomi.hardware.mtdservice-V1.1-java.jar \
     vendor/redmi/begonia/proprietary/framework/vendor.xiaomi.hardware.vsimapp-V1.0-java.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/vendor.xiaomi.hardware.vsimapp-V1.0-java.jar \
+    vendor/redmi/begonia/proprietary/lib/libem_support_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libem_support_jni.so \
     vendor/redmi/begonia/proprietary/lib/libmtk_vt_service.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmtk_vt_service.so \
     vendor/redmi/begonia/proprietary/lib/libmtk_vt_wrapper.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmtk_vt_wrapper.so \
     vendor/redmi/begonia/proprietary/lib/libmtkaudio_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmtkaudio_utils.so \
@@ -40,6 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/redmi/begonia/proprietary/lib/vendor.xiaomi.hardware.touchfeature@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.touchfeature@1.0.so \
     vendor/redmi/begonia/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so \
     vendor/redmi/begonia/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so \
+    vendor/redmi/begonia/proprietary/lib64/libem_support_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libem_support_jni.so \
     vendor/redmi/begonia/proprietary/lib64/libmtk_vt_wrapper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtk_vt_wrapper.so \
     vendor/redmi/begonia/proprietary/lib64/libmtkaudio_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtkaudio_utils.so \
     vendor/redmi/begonia/proprietary/lib64/libmtkavenhancements.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtkavenhancements.so \
@@ -2209,6 +2211,7 @@ PRODUCT_COPY_FILES += \
     vendor/redmi/begonia/proprietary/vendor/thh/ta/fc32e4da17d342449b01c992d56d71bf.ta:$(TARGET_COPY_OUT_VENDOR)/thh/ta/fc32e4da17d342449b01c992d56d71bf.ta
 
 PRODUCT_PACKAGES += \
+    EngineerMode \
     ImsService \
     SoterService \
     HotwordEnrollmentOKGoogleCORTEXM4 \
