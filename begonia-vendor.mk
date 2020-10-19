@@ -1342,7 +1342,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libnxprecord.so:$(TARGET_COPY_OUT_VENDOR)/lib/libnxprecord.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libnxpspeech.so:$(TARGET_COPY_OUT_VENDOR)/lib/libnxpspeech.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboemcrypto.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib/libopus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libopus.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libperfctl_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libperfctl_vendor.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libpixelflinger.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpixelflinger.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libpq_cust_base.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpq_cust_base.so \
@@ -1378,7 +1377,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libviagpsrpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libviagpsrpc.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvolte_core_shr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvolte_core_shr.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvolte_xdmc_shr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvolte_xdmc_shr.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib/libvorbisidec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvorbisidec.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvow_ap_testing_alexa.vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvow_ap_testing_alexa.vendor.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvowp23_sid_testing_alexa.vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvowp23_sid_testing_alexa.vendor.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvowp23_sid_training_alexa.vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvowp23_sid_training_alexa.vendor.so \
@@ -1389,7 +1387,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvp9dec_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvp9dec_sa.ca7.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvpu.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpu.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvpud_vcodec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpud_vcodec.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib/libvpx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpx.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvsim.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvsim.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvt_custom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvt_custom.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libwapi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwapi.so \
