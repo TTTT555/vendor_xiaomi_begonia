@@ -56,6 +56,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/lib/libvcodec_cap.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libvcodec_cap.so \
     vendor/xiaomi/begonia/proprietary/lib/libvcodec_capenc.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libvcodec_capenc.so \
     vendor/xiaomi/begonia/proprietary/lib/libvt_avsync.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libvt_avsync.so \
+    vendor/xiaomi/begonia/proprietary/lib/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.videotelephony@1.0.so \
     vendor/xiaomi/begonia/proprietary/lib/vendor.xiaomi.hardware.citsensorservice@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.citsensorservice@1.0.so \
     vendor/xiaomi/begonia/proprietary/lib/vendor.xiaomi.hardware.citsensorservice@1.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.citsensorservice@1.1.so \
     vendor/xiaomi/begonia/proprietary/lib/vendor.xiaomi.hardware.displayfeature@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.displayfeature@1.0.so \
@@ -75,6 +76,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/lib64/libmtkshifter.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtkshifter.so \
     vendor/xiaomi/begonia/proprietary/lib64/libvcodec_cap.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvcodec_cap.so \
     vendor/xiaomi/begonia/proprietary/lib64/libvcodec_capenc.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libvcodec_capenc.so \
+    vendor/xiaomi/begonia/proprietary/lib64/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.videotelephony@1.0.so \
     vendor/xiaomi/begonia/proprietary/lib64/vendor.xiaomi.hardware.citsensorservice@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.citsensorservice@1.0.so \
     vendor/xiaomi/begonia/proprietary/lib64/vendor.xiaomi.hardware.citsensorservice@1.1.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.citsensorservice@1.1.so \
     vendor/xiaomi/begonia/proprietary/lib64/vendor.xiaomi.hardware.displayfeature@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.displayfeature@1.0.so \
