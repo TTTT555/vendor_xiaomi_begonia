@@ -113,7 +113,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/bin/hw/hostapd:$(TARGET_COPY_OUT_VENDOR)/bin/hw/hostapd \
     vendor/xiaomi/begonia/proprietary/vendor/bin/hw/mtkfusionrild:$(TARGET_COPY_OUT_VENDOR)/bin/hw/mtkfusionrild \
     vendor/xiaomi/begonia/proprietary/vendor/bin/hw/vendor.mediatek.hardware.dfps@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.dfps@1.0-service \
-    vendor/xiaomi/begonia/proprietary/vendor/bin/hw/vendor.mediatek.hardware.dplanner@2.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.dplanner@2.0-service \
     vendor/xiaomi/begonia/proprietary/vendor/bin/hw/vendor.mediatek.hardware.gpu@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.gpu@1.0-service \
     vendor/xiaomi/begonia/proprietary/vendor/bin/hw/vendor.mediatek.hardware.log@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.log@1.0-service \
     vendor/xiaomi/begonia/proprietary/vendor/bin/hw/vendor.mediatek.hardware.mms@1.3-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.mediatek.hardware.mms@1.3-service \
@@ -391,7 +390,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/etc/init/netdagent.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/netdagent.rc \
     vendor/xiaomi/begonia/proprietary/vendor/etc/init/nvram_daemon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/nvram_daemon.rc \
     vendor/xiaomi/begonia/proprietary/vendor/etc/init/vendor.mediatek.hardware.dfps@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.mediatek.hardware.dfps@1.0-service.rc \
-    vendor/xiaomi/begonia/proprietary/vendor/etc/init/vendor.mediatek.hardware.dplanner@2.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.mediatek.hardware.dplanner@2.0-service.rc \
     vendor/xiaomi/begonia/proprietary/vendor/etc/init/vendor.mediatek.hardware.gpu@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.mediatek.hardware.gpu@1.0-service.rc \
     vendor/xiaomi/begonia/proprietary/vendor/etc/init/vendor.mediatek.hardware.log@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.mediatek.hardware.log@1.0-service.rc \
     vendor/xiaomi/begonia/proprietary/vendor/etc/init/vendor.mediatek.hardware.mms@1.3-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.mediatek.hardware.mms@1.3-service.rc \
@@ -786,7 +784,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/etc/throttle.sh:$(TARGET_COPY_OUT_VENDOR)/etc/throttle.sh \
     vendor/xiaomi/begonia/proprietary/vendor/etc/tianma_fhd_nt36672a_dsi_vdo_lcm_drv_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/tianma_fhd_nt36672a_dsi_vdo_lcm_drv_mi.xml \
     vendor/xiaomi/begonia/proprietary/vendor/etc/vendor-apns-conf.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vendor-apns-conf.xml \
-    vendor/xiaomi/begonia/proprietary/vendor/etc/vintf/manifest/vendor.mediatek.hardware.dplanner@2.0-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/vendor.mediatek.hardware.dplanner@2.0-service.xml \
     vendor/xiaomi/begonia/proprietary/vendor/etc/virtual-spn-conf-by-efgid1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-efgid1.xml \
     vendor/xiaomi/begonia/proprietary/vendor/etc/virtual-spn-conf-by-efpnn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-efpnn.xml \
     vendor/xiaomi/begonia/proprietary/vendor/etc/virtual-spn-conf-by-efspn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-efspn.xml \
@@ -2004,7 +2001,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.postproc@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.postproc@1.0.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/vendor.mediatek.hardware.camera.security@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.camera.security@1.0.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/vendor.mediatek.hardware.dfps@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.dfps@1.0.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib64/vendor.mediatek.hardware.dplanner@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.dplanner@2.0.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/vendor.mediatek.hardware.engineermode@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.engineermode@1.0.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/vendor.mediatek.hardware.engineermode@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.engineermode@1.1.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/vendor.mediatek.hardware.engineermode@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.mediatek.hardware.engineermode@1.2.so \
