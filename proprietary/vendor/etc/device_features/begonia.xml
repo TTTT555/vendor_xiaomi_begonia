@@ -351,7 +351,10 @@
     <bool name="is_compatible_paper_and_screen_effect">true</bool>
     <!--whether surpport paper mode animation-->
     <bool name="support_papermode_animation">true</bool>
-
+    <!-- support nfc -->
+    <bool name="support_nfc">true</bool>
+    <!-- NFC related -->
+    <bool name="support_se_route">true</bool>
     <!--These region support face unlock-->
     <string-array name="support_face_unlock_region_global">
         <item>ALL</item>
@@ -365,9 +368,11 @@
     <!-- device body sar value -->
     <float name="device_body_sar">0.634</float>
     <!-- support nfc -->
-    <bool name="support_nfc">false</bool>
+    <bool name="support_nfc">true</bool>
     <!-- NFC related -->
-    <bool name="support_se_route">false</bool>
+    <bool name="support_se_route">true</bool>
+    <!-- 2DFA support -->
+    <integer name="ifaa_2dfa_support">1</integer>
     <!-- whether support hangup while screen turnning off -->
     <bool name="support_hangup_while_screen_off">true</bool>
 </features>
