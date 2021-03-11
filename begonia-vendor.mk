@@ -31,6 +31,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/framework/mediatek-ims-extension-plugin.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mediatek-ims-extension-plugin.jar \
     vendor/xiaomi/begonia/proprietary/framework/mediatek-ims-legacy.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mediatek-ims-legacy.jar \
     vendor/xiaomi/begonia/proprietary/framework/mediatek-ims-wwop-common.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mediatek-ims-wwop-common.jar \
+    vendor/xiaomi/begonia/proprietary/framework/mediatek-wfo-legacy.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mediatek-wfo-legacy.jar \
+    vendor/xiaomi/begonia/proprietary/framework/mediatek-framework-net.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mediatek-framework-net.jar \
+    vendor/xiaomi/begonia/proprietary/framework/mediatek-gwsd.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mediatek-gwsd.jar \
+    vendor/xiaomi/begonia/proprietary/framework/mediatek-services.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mediatek-services.jar \
+    vendor/xiaomi/begonia/proprietary/framework/mtk-wifi-service.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/mtk-wifi-service.jar \
     vendor/xiaomi/begonia/proprietary/framework/vendor.xiaomi.hardware.misys-V1.0-java.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/vendor.xiaomi.hardware.misys-V1.0-java.jar \
     vendor/xiaomi/begonia/proprietary/framework/vendor.xiaomi.hardware.misys-V2.0-java.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/vendor.xiaomi.hardware.misys-V2.0-java.jar \
     vendor/xiaomi/begonia/proprietary/framework/vendor.xiaomi.hardware.misys.V3_0.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/vendor.xiaomi.hardware.misys.V3_0.jar \
@@ -2308,6 +2313,7 @@ PRODUCT_PACKAGES += \
     SoterService \
     HotwordEnrollmentOKGoogleCORTEXM4 \
     HotwordEnrollmentXGoogleCORTEXM4 \
+    mediatek-res \
     mediatek-common \
     mediatek-framework \
     mediatek-ims-base \
