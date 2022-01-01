@@ -42,7 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/framework/vendor.xiaomi.hardware.mtdservice-V1.0-java.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/vendor.xiaomi.hardware.mtdservice-V1.0-java.jar \
     vendor/xiaomi/begonia/proprietary/framework/vendor.xiaomi.hardware.mtdservice-V1.1-java.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/vendor.xiaomi.hardware.mtdservice-V1.1-java.jar \
     vendor/xiaomi/begonia/proprietary/framework/vendor.xiaomi.hardware.vsimapp-V1.0-java.jar:$(TARGET_COPY_OUT_SYSTEM)/framework/vendor.xiaomi.hardware.vsimapp-V1.0-java.jar \
-    vendor/xiaomi/begonia/proprietary/lib/libaudiotoolkit.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudiotoolkit.so \
     vendor/xiaomi/begonia/proprietary/lib/libcomutils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcomutils.so \
     vendor/xiaomi/begonia/proprietary/lib/libem_support_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libem_support_jni.so \
     vendor/xiaomi/begonia/proprietary/lib/libimsma.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libimsma.so \
@@ -72,7 +71,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/lib/vendor.xiaomi.hardware.touchfeature@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.xiaomi.hardware.touchfeature@1.0.so \
     vendor/xiaomi/begonia/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so \
     vendor/xiaomi/begonia/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so \
-    vendor/xiaomi/begonia/proprietary/lib64/libaudiotoolkit.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaudiotoolkit.so \
     vendor/xiaomi/begonia/proprietary/lib64/libmtk_serialnum.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtk_serialnum.so \
     vendor/xiaomi/begonia/proprietary/lib64/libem_support_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libem_support_jni.so \
     vendor/xiaomi/begonia/proprietary/lib64/libmtk_vt_wrapper.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtk_vt_wrapper.so \
@@ -91,15 +89,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/lib64/vendor.xiaomi.hardware.misys@2.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.misys@2.0.so \
     vendor/xiaomi/begonia/proprietary/lib64/vendor.xiaomi.hardware.misys@3.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.misys@3.0.so \
     vendor/xiaomi/begonia/proprietary/lib64/vendor.xiaomi.hardware.touchfeature@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.xiaomi.hardware.touchfeature@1.0.so \
-    vendor/xiaomi/begonia/proprietary/lib64/extractors/libmtkadpcmextractor.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/extractors/libmtkadpcmextractor.so \
-    vendor/xiaomi/begonia/proprietary/lib64/extractors/libmtkalacextractor.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/extractors/libmtkalacextractor.so \
-    vendor/xiaomi/begonia/proprietary/lib64/extractors/libmtkapeextractor.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/extractors/libmtkapeextractor.so \
-    vendor/xiaomi/begonia/proprietary/lib64/extractors/libmtkasfextractor.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/extractors/libmtkasfextractor.so \
-    vendor/xiaomi/begonia/proprietary/lib64/extractors/libmtkaviextractor.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/extractors/libmtkaviextractor.so \
-    vendor/xiaomi/begonia/proprietary/lib64/extractors/libmtkflvextractor.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/extractors/libmtkflvextractor.so \
-    vendor/xiaomi/begonia/proprietary/lib64/extractors/libmtkmkvextractor.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/extractors/libmtkmkvextractor.so \
-    vendor/xiaomi/begonia/proprietary/lib64/extractors/libmtkmp3extractor.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/extractors/libmtkmp3extractor.so \
-    vendor/xiaomi/begonia/proprietary/lib64/extractors/libmtkmpeg2extractor.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/extractors/libmtkmpeg2extractor.so \
     vendor/xiaomi/begonia/proprietary/vendor/bin/SoterProvisioningTool:$(TARGET_COPY_OUT_VENDOR)/bin/SoterProvisioningTool \
     vendor/xiaomi/begonia/proprietary/vendor/bin/aee_aedv:$(TARGET_COPY_OUT_VENDOR)/bin/aee_aedv \
     vendor/xiaomi/begonia/proprietary/vendor/bin/aee_aedv64:$(TARGET_COPY_OUT_VENDOR)/bin/aee_aedv64 \
