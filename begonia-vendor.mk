@@ -1831,6 +1831,11 @@ PRODUCT_COPY_FILES += \
     vendor/redmi/begonia/proprietary/vendor/lib64/libcam.hal3a.cctsvr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcam.hal3a.cctsvr.so \
     vendor/redmi/begonia/proprietary/vendor/lib64/libcam.hal3a.log.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcam.hal3a.log.so \
     vendor/redmi/begonia/proprietary/vendor/lib64/libcam.hal3a.v3.dng.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcam.hal3a.v3.dng.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/2libcam.hal3a.v3.lscMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/2libcam.hal3a.v3.lscMgr.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/2libcam.halsensor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/2libcam.halsensor.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/2libmtkcam.logicalmodule.so:$(TARGET_COPY_OUT_VENDOR)/lib64/2libmtkcam.logicalmodule.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/2libmtkcam_metastore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/2libmtkcam_metastore.so \
+    vendor/redmi/begonia/proprietary/vendor/lib64/2libmtkcam_pipelinepolicy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/2libmtkcam_pipelinepolicy.so \
     vendor/redmi/begonia/proprietary/vendor/lib64/libcam.hal3a.v3.lscMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcam.hal3a.v3.lscMgr.so \
     vendor/redmi/begonia/proprietary/vendor/lib64/libcam.hal3a.v3.lsctbl.50.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcam.hal3a.v3.lsctbl.50.so \
     vendor/redmi/begonia/proprietary/vendor/lib64/libcam.hal3a.v3.nvram.50.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcam.hal3a.v3.nvram.50.so \
