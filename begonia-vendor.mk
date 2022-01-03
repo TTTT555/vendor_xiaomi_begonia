@@ -1557,6 +1557,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib/vendor.xiaomi.hardware.tidaservice@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.xiaomi.hardware.tidaservice@1.1.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/vendor.xiaomi.hardware.touchfeature@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.xiaomi.hardware.touchfeature@1.0.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/vendor.xiaomi.hardware.vsimapp@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.xiaomi.hardware.vsimapp@1.0.so \
+    vendor/xiaomi/begonia/proprietary/vendor/lib64/2libcam.hal3a.v3.lscMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/2libcam.hal3a.v3.lscMgr.so \
+    vendor/xiaomi/begonia/proprietary/vendor/lib64/2libcam.halsensor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/2libcam.halsensor.so \
+    vendor/xiaomi/begonia/proprietary/vendor/lib64/2libmtkcam.logicalmodule.so:$(TARGET_COPY_OUT_VENDOR)/lib64/2libmtkcam.logicalmodule.so \
+    vendor/xiaomi/begonia/proprietary/vendor/lib64/2libmtkcam_metastore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/2libmtkcam_metastore.so \
+    vendor/xiaomi/begonia/proprietary/vendor/lib64/2libmtkcam_pipelinepolicy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/2libmtkcam_pipelinepolicy.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/AVCSecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib64/AVCSecureVdecCA.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/com.fingerprints.extension@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.fingerprints.extension@1.0.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/egl/libGLES_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLES_mali.so \
