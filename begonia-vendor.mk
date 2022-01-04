@@ -900,6 +900,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/firmware/NT36xxx_MP_Setting_Criteria_5921.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/NT36xxx_MP_Setting_Criteria_5921.csv \
     vendor/xiaomi/begonia/proprietary/vendor/firmware/WIFI_RAM_CODE_soc1_0_2a_1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/WIFI_RAM_CODE_soc1_0_2a_1.bin \
     vendor/xiaomi/begonia/proprietary/vendor/firmware/wifi.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi.cfg \
+    vendor/xiaomi/begonia/proprietary/vendor/firmware/wifi_sta2.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi_sta2.cfg \
+    vendor/xiaomi/begonia/proprietary/vendor/firmware/wifi_sta5.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi_sta5.cfg \
+    vendor/xiaomi/begonia/proprietary/vendor/firmware/wifi_sta25.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi_sta25.cfg \
     vendor/xiaomi/begonia/proprietary/vendor/firmware/WMT_SOC.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/WMT_SOC.cfg \
     vendor/xiaomi/begonia/proprietary/vendor/firmware/fm_cust.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/fm_cust.cfg \
     vendor/xiaomi/begonia/proprietary/vendor/firmware/gt1151_default_firmware1.img:$(TARGET_COPY_OUT_VENDOR)/firmware/gt1151_default_firmware1.img \
