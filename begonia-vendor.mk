@@ -912,6 +912,9 @@ PRODUCT_COPY_FILES += \
     vendor/redmi/begonia/proprietary/vendor/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_VENDOR)/firmware/tfa98xx.cnt \
     vendor/redmi/begonia/proprietary/vendor/firmware/txpowerctrl.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/txpowerctrl.cfg \
     vendor/redmi/begonia/proprietary/vendor/firmware/wifi.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi.cfg \
+    vendor/redmi/begonia/proprietary/vendor/firmware/wifi_sta2.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi_sta2.cfg \
+    vendor/redmi/begonia/proprietary/vendor/firmware/wifi_sta5.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi_sta5.cfg \
+    vendor/redmi/begonia/proprietary/vendor/firmware/wifi_sta25.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/wifi_sta25.cfg \
     vendor/redmi/begonia/proprietary/vendor/lib/AVCSecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/AVCSecureVdecCA.so \
     vendor/redmi/begonia/proprietary/vendor/lib/VP9SecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib/VP9SecureVdecCA.so \
     vendor/redmi/begonia/proprietary/vendor/lib/android.hardware.power-V1-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.power-V1-ndk_platform.so \
